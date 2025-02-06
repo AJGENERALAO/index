@@ -39,6 +39,7 @@ const bbtt12 = document.getElementById('bbtt12');
 
 const hands = document.getElementById('hands');
 const sadcat = document.getElementById('sadcat');
+const egat = document.getElementById('egat');
 const crying = document.getElementById('crying');
 const sadboi = document.getElementById('sadboi');
 const sadman  = document.getElementById('sadman');
@@ -65,6 +66,7 @@ bbtt3.addEventListener("click", function (){
 			btt1.style.opacity= "1";
 			bbtt3.style.opacity= "0";
 			sadcat.style.opacity= "1";
+			egat.style.opacity= "1";
 									
 });
 
